@@ -1,0 +1,32 @@
+footer {
+    font-size: 0.7rem; 
+    text-align: center; 
+   }
+ footer a { 
+   color: hsl(228, 45%, 44%); 
+ }
+
+ body{
+   text-align: center;
+   background-color: hsl(220, 41%, 89%);
+   font-family: Outfit, Calibri, Arial;
+ }
+ main{
+   background-color: white;
+   border-radius: 20px;
+   padding: 10px 0px;
+   margin: 150px auto;
+   max-width: 240px;
+ }
+ main h1{
+   padding: 0 20px;
+   font-size: 1.1rem;
+ }
+ main p{
+   color:gray;
+   padding: 0 30px;
+   font-size: 0.7rem;
+ }
+ main img{
+   border-radius: 20px;
+ }
